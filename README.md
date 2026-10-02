@@ -12,7 +12,7 @@
 
 - 🎓 Cursando mis últimos años de Ingeniería Civil Informática en la **Universidad de Concepción**
 - 💻 Desarrollo proyectos freelance full-stack para clientes reales, de principio a fin: diseño, código y despliegue en producción
-- 📍 Basada en Concepción, Chile — trabajo en remoto
+- 📍 Concepción, Chile — trabajo en remoto
 
 ---
 
@@ -44,9 +44,9 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🏛️ [**Arquitectura de Penco**](https://github.com/gescalonaw/arquitecturapenco) · [sitio en vivo](https://arquitecturapenco.cl) | Documentación patrimonial de los barrios industriales de Penco, financiado por FONDART | React · Vite · Tailwind CSS · Leaflet |
-| 🎬 **Cineclub Penco** *(en desarrollo)* | Sitio hermano del proyecto anterior, para el centro cultural que lo impulsa | React · Vite · Tailwind CSS |
-| 🎁 [**Pavariar.cl**](https://github.com/gescalonaw/pavariar-cl) · [sitio en vivo](https://pavariar.cl) | E-commerce para tienda de regalos, con plugin propio de POS multisede | WordPress · WooCommerce · PHP · POS multisede |
+| [**Arquitectura de Penco**](https://github.com/gescalonaw/arquitecturapenco) · [sitio en vivo](https://arquitecturapenco.cl) | Documentación patrimonial de los barrios industriales de Penco, financiado por FONDART | React · Vite · Tailwind CSS · Leaflet |
+| **Cineclub Penco** *(en desarrollo)* | Sitio hermano del proyecto anterior, para el centro cultural que lo impulsa | React · Vite · Tailwind CSS |
+| [**Pavariar.cl**](https://github.com/gescalonaw/pavariar-cl) · [sitio en vivo](https://pavariar.cl) | E-commerce para tienda de regalos, con plugin propio de POS multisede | WordPress · WooCommerce · PHP · POS multisede |
 |[**Plugin POS Multisede**](https://github.com/gescalonaw/POS-multisede) | Plugin de WordPress/WooCommerce para gestión de punto de venta e inventario multisede, desarrollado para Pavariar | WordPress · WooCommerce · PHP |
 
 ---
